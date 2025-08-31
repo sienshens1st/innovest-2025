@@ -1,0 +1,13 @@
+✅ Summary of collisions with Bootstrap v5.3.3:
+
+body, a, h1–h6
+
+.container
+
+.nav-link, .nav-tabs, .active
+
+.dropdown (structure)
+
+input, textarea, ::placeholder
+
+Buttons (button[type=submit] may clash with .btn)
